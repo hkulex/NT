@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tobii.CSharp", "Tobii.CSharp.csproj", "{73DE0274-BDB7-0A02-FB30-F66F4B13C6FF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tobii.CSharp.Editor", "Tobii.CSharp.Editor.csproj", "{F0238CF2-C6EE-5DE5-FAAB-882C74C4A4EE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{73DE0274-BDB7-0A02-FB30-F66F4B13C6FF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{73DE0274-BDB7-0A02-FB30-F66F4B13C6FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{73DE0274-BDB7-0A02-FB30-F66F4B13C6FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{73DE0274-BDB7-0A02-FB30-F66F4B13C6FF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F0238CF2-C6EE-5DE5-FAAB-882C74C4A4EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F0238CF2-C6EE-5DE5-FAAB-882C74C4A4EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F0238CF2-C6EE-5DE5-FAAB-882C74C4A4EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F0238CF2-C6EE-5DE5-FAAB-882C74C4A4EE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
